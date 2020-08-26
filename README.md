@@ -17,5 +17,7 @@ Também deve criar um repositório remoto no GitHub seguindo os seguintes passos
 Copie o URL grifado e digite o comando `git remote add origin URL-copiado`, exemplo:
 `git remote add origin git@github.com:rntjr/curso-git-github.git`
 ![Configurando repositório remoto no local](images/aula_3_5.png)
+![Configurando repositório remoto no local](images/aula_3_6.png)
 
 Escreva algo dentro do arquivo README.md, digite no terminal `git add .` e depois `git commit -m "Commit Inicial do Projeto"`. O texto dentro de áspas pode ser qualquer coisa que preferir.
+![Primeiro Commit](images/aula_3_7.png)
